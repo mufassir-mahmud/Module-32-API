@@ -12,3 +12,4 @@ function getData(data){
         ul.appendChild(li)
     }
 }
+
